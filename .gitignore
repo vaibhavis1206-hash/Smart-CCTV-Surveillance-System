@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.vscode/
+authorized_people/
+registered_objects/
+*_screenshots/
+live_frame.jpg
+latest_frame.jpg
